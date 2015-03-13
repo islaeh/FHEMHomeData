@@ -1,0 +1,151 @@
+BEGIN:VCALENDAR
+PRODID:-//FDP Koeln Nippes//Termindienst 1.0//DE
+VERSION:2.0
+X-WR-CALNAME:FDP-Nippes Termine (TEST-Betrieb)
+CALSCALE: GREGORIAN
+METHOD: PUBLISH
+BEGIN:VEVENT
+DTSTART:20150312T183000
+DTEND:20150312T210000
+SUMMARY:StBV-Parteitag Nippes 2015
+LOCATION:Haus Schnakertz\, Buelowstr.3\, Nippes
+DESCRIPTION:1. Bericht des Vorsitzenden\n2. Bericht der Kassiererin\n3. Bericht des Kassenpruefers\n4. Wahl des Wahlleiters\n5. Entlastung des Vorstandes\n6. Wahl des Vorstandes\n- Wahl des/der Vorsitzenden\n- Wahl des/der Stellveretenden Vorsitzenden\n- Wahl des/der Schatzmeisters(in)\n- Wahl des/der Schriftfuehrers(in)\n- Wahl der Beisitzer(innen)\n- Wahl des/der Kassenpruefers(in)\n7. Antragsberatung (Antragsfrist endet am 02.03.2015)\n8. Aussprache\n9. Vortrag: Fuer Koeln geplant und nicht gebaut!\n10. Verschiedenes\n
+UID:FDPNIPPES-00001
+SEQUENCE:13
+DTSTAMP:20150310T210109
+ORGANIZER;CN=Dr. Lars H. Ehlers:mailto:lars.ehlers@fdp-koeln.de
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+X-APPLE-DEFAULT-ALARM:TRUE
+TRIGGER:-PT120M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150316T183000
+DTEND:20150316T183000
+SUMMARY:ABGESAGT - StBV-Vorstandsitzung (Maerz)
+LOCATION:n/a
+DESCRIPTION:Durch den StBV-Parteitag am vorherigen Freitag, 12. Maerz, wird dieser Termin nicht mehr benoetigt
+UID:FDPNIPPES-00002
+SEQUENCE:13
+DTSTAMP:20150310T210109
+ORGANIZER;CN=Dr. Lars H. Ehlers:mailto:lars.ehlers@fdp-koeln.de
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+X-APPLE-DEFAULT-ALARM:TRUE
+TRIGGER:-PT120M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150427T183000
+DTEND:20150427T200000
+SUMMARY:StBV-Vorstandsitzung (April)
+LOCATION:Altenberger Hof\, Herrenhaus
+DESCRIPTION:zur Info: folgende BV Sitzung am 30. April
+UID:FDPNIPPES-00003
+SEQUENCE:13
+DTSTAMP:20150310T210109
+ORGANIZER;CN=Dr. Lars H. Ehlers:mailto:lars.ehlers@fdp-koeln.de
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+X-APPLE-DEFAULT-ALARM:TRUE
+TRIGGER:-PT120M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150615T183000
+DTEND:20150615T200000
+SUMMARY:StBV-Vorstandsitzung (Juni)
+LOCATION:Altenberger Hof\, Herrenhaus
+DESCRIPTION:zur Info: folgende BV Sitzung am 18. Juni
+UID:FDPNIPPES-00004
+SEQUENCE:13
+DTSTAMP:20150310T210109
+ORGANIZER;CN=Dr. Lars H. Ehlers:mailto:lars.ehlers@fdp-koeln.de
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+X-APPLE-DEFAULT-ALARM:TRUE
+TRIGGER:-PT120M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150831T183000
+DTEND:20150831T200000
+SUMMARY:StBV-Vorstandsitzung (Aug fuer BV-Sept)
+LOCATION:Altenberger Hof\, Herrenhaus
+DESCRIPTION:zur Info: folgende BV Sitzung am 3. Sept
+UID:FDPNIPPES-00005
+SEQUENCE:13
+DTSTAMP:20150310T210109
+ORGANIZER;CN=Dr. Lars H. Ehlers:mailto:lars.ehlers@fdp-koeln.de
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+X-APPLE-DEFAULT-ALARM:TRUE
+TRIGGER:-PT120M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151102T183000
+DTEND:20151102T200000
+SUMMARY:StBV-Vorstandsitzung (Nov)
+LOCATION:Altenberger Hof\, Herrenhaus
+DESCRIPTION:zur Info: folgende BV Sitzung am 5. Nov
+UID:FDPNIPPES-00006
+SEQUENCE:13
+DTSTAMP:20150310T210109
+ORGANIZER;CN=Dr. Lars H. Ehlers:mailto:lars.ehlers@fdp-koeln.de
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+X-APPLE-DEFAULT-ALARM:TRUE
+TRIGGER:-PT120M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20151130T183000
+DTEND:20151130T200000
+SUMMARY:StBV-Vorstandsitzung (Nov fuer BV-Dez)
+LOCATION:Altenberger Hof\, Herrenhaus
+DESCRIPTION:zur Info: folgende BV Sitzung am 5. Dez
+UID:FDPNIPPES-00007
+SEQUENCE:13
+DTSTAMP:20150310T210109
+ORGANIZER;CN=Dr. Lars H. Ehlers:mailto:lars.ehlers@fdp-koeln.de
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+X-APPLE-DEFAULT-ALARM:TRUE
+TRIGGER:-PT120M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20150310T190000
+DTEND:20150310T193000
+SUMMARY:Terminsache 10. Maerz: Umfrage zur Vorbereitung des Leitantrages 'Mehr Chancen durch mehr Freiheit - Kernforderungen der Freien Demokraten'
+LOCATION:eigener PC und Mail-Programm
+DESCRIPTION:Am 2. Maerz hatte unsere Generalsekrataerin Nicola Beer alle FDP-Mitglieder per Mail informiert.\n\nDer Bundesvorstand moechte dazu einen Antrag "Mehr Chancen durch mehr Freiheit: Kernforderungen der FDP" mit den Delegierten beraten. In die Vorbereitung dieses Antrags moechten wir moeglichst viele Mitglieder einbinden.\n\nDazu dient die Umfrage; den Link dazu haben Sie bereits am 2. Maerz per Mail erhalten.
+UID:FDPNIPPES-00008
+SEQUENCE:13
+DTSTAMP:20150310T210109
+ORGANIZER;CN=Dr. Lars H. Ehlers:mailto:lars.ehlers@fdp-koeln.de
+X-MICROSOFT-CDO-BUSYSTATUS:BUSY
+BEGIN:VALARM
+X-APPLE-DEFAULT-ALARM:TRUE
+TRIGGER:-PT120M
+ACTION:AUDIO
+ATTACH;VALUE=URI:Basso
+END:VALARM
+END:VEVENT
+END:VCALENDAR
